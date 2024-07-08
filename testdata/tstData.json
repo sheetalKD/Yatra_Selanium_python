@@ -1,0 +1,14 @@
+{
+  "test1": {
+    "dept_from": "New Delhi",
+    "going_to": "Goa",
+    "date": "30/04/2024",
+    "fligt_stop": "1"
+  },
+  "test2": {
+    "dept_from": "Goa",
+    "going_to": "BOM",
+    "date": "30/04/2024",
+    "fligt_stop": "2"
+  }
+}
